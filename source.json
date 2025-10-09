@@ -1,7 +1,7 @@
 {
   "base": "10.0",
-  "release": "20250906",
+  "release": "20250919",
   "build": "1",
-  "url": "https://mirror.cachyos.org/repo/x86_64_v3/cachyos-v3/proton-cachyos-1%3A10.0.20250906-1-x86_64_v3.pkg.tar.zst",
-  "hash": "sha256-3rV9sZDDvLENTUZ2QdQXoyrhpeKi+K5lseFnbMUtGB0="
+  "url": "https://mirror.cachyos.org/repo/x86_64_v3/cachyos-v3/proton-cachyos-1%3A10.0.20250919-1-x86_64_v3.pkg.tar.zst",
+  "hash": "sha256-LZHo/vgKCF6U8CA6/fm6CbUOkW1bXwx3DjiipqPGoQc="
 }
